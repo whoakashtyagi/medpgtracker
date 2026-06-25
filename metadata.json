@@ -1,0 +1,6 @@
+{
+  "name": "MedLog PG",
+  "description": "Clinical Patient Logbook and Case Tracker for Medical and Dental PG students & Residents in India (MBBS, MS, MDS, BDS, MD). Track OPD/IPD logs, ward admissions, NMC/DCI competencies, and generate clinical case presentation summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
